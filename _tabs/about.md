@@ -28,7 +28,7 @@ This project is built using:
 All our content and code are open-source and available under permissive licenses. Feel free to use, modify, and contribute! The only requirement is to **credit the repository and website** when using our work.
 
 ## 📢 Join the Community
-- **GitHub Repository:** [github.com/duckindock/DuckInDock](https://github.com/duckindock/DuckInDock)
+- **GitHub Repository:** [github.com/soroush-zendedel/DuckInDock](https://github.com/soroush-zendedel/DuckInDock)
 - **YouTube Channel:** [youtube.com/@duckindock](https://youtube.com/@duckindock)
 - **Docker Hub:** [hub.docker.com/u/duckindock](https://hub.docker.com/u/duckindock)
 
