@@ -15,7 +15,7 @@ pin: true
 
 Hey there! 🚀 Welcome to **Duck In Dock**, a place where we explore the world of web technologies, open-source development, and containerized environments. If you’re here, that means you want to learn, contribute, and grow as a developer. And trust me, you're in the right place! 😃
 
-Our goal is simple: **share knowledge and build awesome things together!** Every post here comes with a related GitHub repository so that you can practice, experiment, and even contribute back. Bookmark this site and subscribe to our [**RSS feed**](/feed.xml) to stay updated with fresh content. 📰
+Our goal is simple: **share knowledge and build awesome things together!** Every post here comes with a related GitHub repository so that you can practice, experiment, and even contribute back. Bookmark this site and subscribe to our [**RSS feed**]({{ '/feed.xml' | relative_url }}) to stay updated with fresh content. 📰
 
 ---
 
